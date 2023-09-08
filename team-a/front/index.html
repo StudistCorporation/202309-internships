@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transcription Results</title>
+    <style>
+        /* リストのマーカー（先頭の・）を非表示にする */
+        #transcriptList {
+            list-style-type: none;
+            padding-left: 0;  /* 左の余白も削除 */
+        }
+    </style>
+</head>
+<body>
+    <h1>〇〇マニュアル</h1>
+
+    <video width="device-width/2" height="240" controls>
+        <source src="https://team-a-test-fetch.s3.ap-northeast-1.amazonaws.com/output-movie.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <h2>手順</h2>
+    <ul id="transcriptList"></ul>
+    
+    
+    <script src="script.js"></script>
+</body>
+</html>

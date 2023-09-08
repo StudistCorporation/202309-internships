@@ -1,0 +1,794 @@
+{
+    "jobName": "20230908025553_Transcription_teamA",
+    "accountId": "751734263430",
+    "results": {
+        "transcripts": [
+            {
+                "transcript": "納豆メーカーが考えた卵かけご飯の到達点。まずは納豆についているタレとカシを外してするする。タレ入れてネギ入れて五枚入れて、ごま油ラー油もちょこっと、そしたら味ぼうを隠し味ぐるぐる混ぜたらご飯に乗ってた。おいしそうと思ったらいいね。フォローお願いします"
+            }
+        ],
+        "items": [
+            {
+                "start_time": "0.939",
+                "end_time": "1.36",
+                "alternatives": [
+                    {
+                        "confidence": "0.996",
+                        "content": "納豆"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "1.37",
+                "end_time": "1.7",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "メーカー"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "1.71",
+                "end_time": "1.86",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "が"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "1.87",
+                "end_time": "2.23",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "考え"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "2.24",
+                "end_time": "2.369",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "た"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "2.7",
+                "end_time": "3.289",
+                "alternatives": [
+                    {
+                        "confidence": "0.993",
+                        "content": "卵かけ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.299",
+                "end_time": "3.599",
+                "alternatives": [
+                    {
+                        "confidence": "0.994",
+                        "content": "ご飯"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.609",
+                "end_time": "3.73",
+                "alternatives": [
+                    {
+                        "confidence": "0.997",
+                        "content": "の"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.74",
+                "end_time": "4.17",
+                "alternatives": [
+                    {
+                        "confidence": "0.996",
+                        "content": "到達"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "4.179",
+                "end_time": "4.42",
+                "alternatives": [
+                    {
+                        "confidence": "0.966",
+                        "content": "点"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "。"
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "6.44",
+                "end_time": "6.75",
+                "alternatives": [
+                    {
+                        "confidence": "0.996",
+                        "content": "まず"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "6.76",
+                "end_time": "6.869",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "は"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "6.88",
+                "end_time": "7.309",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "納豆"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.32",
+                "end_time": "7.469",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "に"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.48",
+                "end_time": "7.71",
+                "alternatives": [
+                    {
+                        "confidence": "0.892",
+                        "content": "つい"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.719",
+                "end_time": "7.789",
+                "alternatives": [
+                    {
+                        "confidence": "0.996",
+                        "content": "て"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.8",
+                "end_time": "8.01",
+                "alternatives": [
+                    {
+                        "confidence": "0.996",
+                        "content": "いる"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "8.02",
+                "end_time": "8.27",
+                "alternatives": [
+                    {
+                        "confidence": "0.579",
+                        "content": "タレ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "8.279",
+                "end_time": "8.409",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "と"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "8.42",
+                "end_time": "8.899",
+                "alternatives": [
+                    {
+                        "confidence": "0.226",
+                        "content": "カシ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "8.909",
+                "end_time": "9.029",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "を"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "9.039",
+                "end_time": "9.439",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "外し"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "9.449",
+                "end_time": "9.64",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "て"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "9.8",
+                "end_time": "10.71",
+                "alternatives": [
+                    {
+                        "confidence": "0.675",
+                        "content": "するする"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "。"
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "11.239",
+                "end_time": "11.569",
+                "alternatives": [
+                    {
+                        "confidence": "0.53",
+                        "content": "タレ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "11.579",
+                "end_time": "11.819",
+                "alternatives": [
+                    {
+                        "confidence": "0.994",
+                        "content": "入れ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "11.829",
+                "end_time": "12.189",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "て"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "12.199",
+                "end_time": "12.689",
+                "alternatives": [
+                    {
+                        "confidence": "0.903",
+                        "content": "ネギ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "12.699",
+                "end_time": "12.939",
+                "alternatives": [
+                    {
+                        "confidence": "0.996",
+                        "content": "入れ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "12.949",
+                "end_time": "13.329",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "て"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "13.34",
+                "end_time": "13.529",
+                "alternatives": [
+                    {
+                        "confidence": "0.782",
+                        "content": "五"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "13.539",
+                "end_time": "13.729",
+                "alternatives": [
+                    {
+                        "confidence": "0.444",
+                        "content": "枚"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "13.739",
+                "end_time": "13.989",
+                "alternatives": [
+                    {
+                        "confidence": "0.995",
+                        "content": "入れ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "14.0",
+                "end_time": "14.25",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "て"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "、"
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "14.439",
+                "end_time": "15.119",
+                "alternatives": [
+                    {
+                        "confidence": "0.953",
+                        "content": "ごま"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "15.77",
+                "end_time": "15.949",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "油"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "15.96",
+                "end_time": "16.04",
+                "alternatives": [
+                    {
+                        "confidence": "0.478",
+                        "content": "ラー油"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "16.049",
+                "end_time": "16.19",
+                "alternatives": [
+                    {
+                        "confidence": "0.994",
+                        "content": "も"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "16.2",
+                "end_time": "16.569",
+                "alternatives": [
+                    {
+                        "confidence": "0.922",
+                        "content": "ちょこっと"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "、"
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "17.35",
+                "end_time": "17.51",
+                "alternatives": [
+                    {
+                        "confidence": "0.991",
+                        "content": "そ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "17.52",
+                "end_time": "17.62",
+                "alternatives": [
+                    {
+                        "confidence": "0.997",
+                        "content": "し"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "17.629",
+                "end_time": "17.95",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "たら"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "17.959",
+                "end_time": "18.139",
+                "alternatives": [
+                    {
+                        "confidence": "0.915",
+                        "content": "味"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "18.149",
+                "end_time": "18.34",
+                "alternatives": [
+                    {
+                        "confidence": "0.288",
+                        "content": "ぼう"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "18.35",
+                "end_time": "18.549",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "を"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "18.909",
+                "end_time": "20.049",
+                "alternatives": [
+                    {
+                        "confidence": "0.576",
+                        "content": "隠し味"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "20.459",
+                "end_time": "20.969",
+                "alternatives": [
+                    {
+                        "confidence": "0.587",
+                        "content": "ぐるぐる"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "20.979",
+                "end_time": "21.229",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "混ぜ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "21.239",
+                "end_time": "21.659",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "たら"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "22.04",
+                "end_time": "22.43",
+                "alternatives": [
+                    {
+                        "confidence": "0.996",
+                        "content": "ご飯"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "22.44",
+                "end_time": "22.61",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "に"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "22.62",
+                "end_time": "22.899",
+                "alternatives": [
+                    {
+                        "confidence": "0.893",
+                        "content": "乗っ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "22.909",
+                "end_time": "23.229",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "て"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "23.709",
+                "end_time": "23.86",
+                "alternatives": [
+                    {
+                        "confidence": "0.91",
+                        "content": "た"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "。"
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "26.059",
+                "end_time": "26.329",
+                "alternatives": [
+                    {
+                        "confidence": "0.432",
+                        "content": "おいし"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "26.34",
+                "end_time": "26.5",
+                "alternatives": [
+                    {
+                        "confidence": "0.996",
+                        "content": "そう"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "26.51",
+                "end_time": "26.569",
+                "alternatives": [
+                    {
+                        "confidence": "0.997",
+                        "content": "と"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "26.579",
+                "end_time": "26.719",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "思っ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "26.729",
+                "end_time": "27.02",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "たら"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "27.03",
+                "end_time": "27.219",
+                "alternatives": [
+                    {
+                        "confidence": "0.985",
+                        "content": "いい"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "27.229",
+                "end_time": "27.36",
+                "alternatives": [
+                    {
+                        "confidence": "0.882",
+                        "content": "ね"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "。"
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "27.37",
+                "end_time": "27.559",
+                "alternatives": [
+                    {
+                        "confidence": "0.302",
+                        "content": "フォロー"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "27.569",
+                "end_time": "27.579",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "お"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "27.59",
+                "end_time": "27.879",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "願い"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "27.889",
+                "end_time": "27.979",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "し"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "27.989",
+                "end_time": "28.36",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "ます"
+                    }
+                ],
+                "type": "pronunciation"
+            }
+        ]
+    },
+    "status": "COMPLETED"
+}

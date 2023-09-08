@@ -1,0 +1,880 @@
+{
+    "jobName": "test-job-team-a",
+    "accountId": "751734263430",
+    "results": {
+        "transcripts": [
+            {
+                "transcript": "THMBは、画像や動画をベースに伝えることをもっと簡単にするサービスです。文字やテキストだらけではなく、画像や動画を中心に分かりやすい手順書を簡単に作成閲覧共有できます。伝える業務を楽にするだけでなく、え教育効果を向上させたり、現場の知見をより簡単に社内に浸透させられます。"
+            }
+        ],
+        "items": [
+            {
+                "start_time": "0.3",
+                "end_time": "0.889",
+                "alternatives": [
+                    {
+                        "confidence": "0.513",
+                        "content": "THMB"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "0.899",
+                "end_time": "1.07",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "は"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "、"
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "1.33",
+                "end_time": "1.62",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "画像"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "1.629",
+                "end_time": "1.7",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "や"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "1.71",
+                "end_time": "1.98",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "動画"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "1.99",
+                "end_time": "2.059",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "を"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "2.069",
+                "end_time": "2.319",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "ベース"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "2.329",
+                "end_time": "2.569",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "に"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "2.67",
+                "end_time": "3.0",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "伝える"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.009",
+                "end_time": "3.22",
+                "alternatives": [
+                    {
+                        "confidence": "0.979",
+                        "content": "こと"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.23",
+                "end_time": "3.299",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "を"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.309",
+                "end_time": "3.599",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "もっと"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.609",
+                "end_time": "3.94",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "簡単"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.95",
+                "end_time": "4.039",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "に"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "4.05",
+                "end_time": "4.26",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "する"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "4.269",
+                "end_time": "4.59",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "サービス"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "4.599",
+                "end_time": "4.829",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "です"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "。"
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "5.309",
+                "end_time": "5.599",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "文字"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "5.61",
+                "end_time": "5.699",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "や"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "5.71",
+                "end_time": "6.099",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "テキスト"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "6.11",
+                "end_time": "6.449",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "だらけ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "6.46",
+                "end_time": "6.5",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "で"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "6.51",
+                "end_time": "6.579",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "は"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "6.59",
+                "end_time": "6.88",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "なく"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "、"
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "7.07",
+                "end_time": "7.38",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "画像"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.389",
+                "end_time": "7.539",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "や"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.55",
+                "end_time": "7.809",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "動画"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.82",
+                "end_time": "7.92",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "を"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.929",
+                "end_time": "8.3",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "中心"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "8.31",
+                "end_time": "8.539",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "に"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "8.55",
+                "end_time": "8.819",
+                "alternatives": [
+                    {
+                        "confidence": "0.777",
+                        "content": "分かり"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "8.829",
+                "end_time": "9.109",
+                "alternatives": [
+                    {
+                        "confidence": "0.996",
+                        "content": "やすい"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "9.119",
+                "end_time": "9.42",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "手順"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "9.43",
+                "end_time": "9.659",
+                "alternatives": [
+                    {
+                        "confidence": "0.996",
+                        "content": "書"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "9.67",
+                "end_time": "9.72",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "を"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "9.89",
+                "end_time": "10.3",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "簡単"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "10.31",
+                "end_time": "10.5",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "に"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "10.51",
+                "end_time": "11.119",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "作成"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "11.13",
+                "end_time": "11.539",
+                "alternatives": [
+                    {
+                        "confidence": "0.997",
+                        "content": "閲覧"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "11.55",
+                "end_time": "11.899",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "共有"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "11.909",
+                "end_time": "12.1",
+                "alternatives": [
+                    {
+                        "confidence": "0.996",
+                        "content": "でき"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "12.109",
+                "end_time": "12.34",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "ます"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "。"
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "12.569",
+                "end_time": "12.979",
+                "alternatives": [
+                    {
+                        "confidence": "0.997",
+                        "content": "伝える"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "12.989",
+                "end_time": "13.229",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "業務"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "13.239",
+                "end_time": "13.319",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "を"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "13.329",
+                "end_time": "13.449",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "楽"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "13.46",
+                "end_time": "13.569",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "に"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "13.579",
+                "end_time": "13.779",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "する"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "13.789",
+                "end_time": "13.939",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "だけ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "13.949",
+                "end_time": "14.02",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "で"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "14.029",
+                "end_time": "14.38",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "なく"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "、"
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "14.649",
+                "end_time": "14.96",
+                "alternatives": [
+                    {
+                        "confidence": "0.611",
+                        "content": "え"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "15.17",
+                "end_time": "15.529",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "教育"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "15.539",
+                "end_time": "15.779",
+                "alternatives": [
+                    {
+                        "confidence": "0.997",
+                        "content": "効果"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "15.789",
+                "end_time": "15.859",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "を"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "15.869",
+                "end_time": "16.18",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "向上"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "16.19",
+                "end_time": "16.29",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "さ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "16.299",
+                "end_time": "16.389",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "せ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "16.399",
+                "end_time": "16.649",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "たり"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "、"
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "16.799",
+                "end_time": "17.11",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "現場"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "17.12",
+                "end_time": "17.26",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "の"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "17.27",
+                "end_time": "17.579",
+                "alternatives": [
+                    {
+                        "confidence": "0.958",
+                        "content": "知見"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "17.59",
+                "end_time": "17.75",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "を"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "17.829",
+                "end_time": "18.1",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "より"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "18.11",
+                "end_time": "18.5",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "簡単"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "18.51",
+                "end_time": "18.7",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "に"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "18.709",
+                "end_time": "19.0",
+                "alternatives": [
+                    {
+                        "confidence": "0.985",
+                        "content": "社内"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "19.01",
+                "end_time": "19.1",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "に"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "19.11",
+                "end_time": "19.44",
+                "alternatives": [
+                    {
+                        "confidence": "0.994",
+                        "content": "浸透"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "19.45",
+                "end_time": "19.54",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "さ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "19.549",
+                "end_time": "19.67",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "せ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "19.68",
+                "end_time": "19.86",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "られ"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "19.87",
+                "end_time": "20.149",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "ます"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "。"
+                    }
+                ],
+                "type": "punctuation"
+            }
+        ]
+    },
+    "status": "COMPLETED"
+}

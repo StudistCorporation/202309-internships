@@ -12,6 +12,11 @@ import (
 	"github.com/aws/aws-sdk-go/service/s3/s3manager"
 )
 
+// 引数で指定したファイルをs3にアップロードしてくれます
+// awsの認証情報とかは、~/.aws/configとかからよしなにとってきてくれるみたい
+// リージョンや送信先のbucket名とか、keyの名前は固定してます
+// アップロード成功すると、アップロード先のリンクを出力します
+
 func main() {
 	regionName := "ap-northeast-1"
 	profileName := "default"

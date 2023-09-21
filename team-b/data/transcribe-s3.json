@@ -14,7 +14,10 @@
         "alternatives": [{ "confidence": "0.996", "content": "はい" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "。" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "。" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "1.21",
         "end_time": "1.37",
@@ -45,7 +48,10 @@
         "alternatives": [{ "confidence": "0.772", "content": "え" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "？" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "？" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "2.63",
         "end_time": "2.94",
@@ -64,7 +70,10 @@
         "alternatives": [{ "confidence": "0.75", "content": "え" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "？" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "？" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "3.73",
         "end_time": "3.94",
@@ -173,7 +182,10 @@
         "alternatives": [{ "confidence": "0.997", "content": "ます" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "。" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "。" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "7.78",
         "end_time": "7.969",
@@ -210,7 +222,10 @@
         "alternatives": [{ "confidence": "0.973", "content": "と" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "、" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "、" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "8.89",
         "end_time": "9.14",
@@ -295,14 +310,20 @@
         "alternatives": [{ "confidence": "0.939", "content": "と" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "。" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "。" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "10.859",
         "end_time": "10.93",
         "alternatives": [{ "confidence": "0.942", "content": "で" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "、" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "、" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "10.939",
         "end_time": "11.189",
@@ -369,14 +390,20 @@
         "alternatives": [{ "confidence": "0.999", "content": "ます" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "。" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "。" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "13.14",
         "end_time": "13.159",
         "alternatives": [{ "confidence": "0.745", "content": "で" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "、" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "、" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "13.17",
         "end_time": "13.619",
@@ -389,7 +416,10 @@
         "alternatives": [{ "confidence": "0.509", "content": "えー" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "、" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "、" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "13.789",
         "end_time": "14.079",
@@ -444,7 +474,10 @@
         "alternatives": [{ "confidence": "0.997", "content": "ね" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "。" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "。" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "15.289",
         "end_time": "15.43",
@@ -487,14 +520,20 @@
         "alternatives": [{ "confidence": "0.997", "content": "て" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "、" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "、" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "16.93",
         "end_time": "17.0",
         "alternatives": [{ "confidence": "0.694", "content": "え" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "、" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "、" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "17.01",
         "end_time": "17.139",
@@ -531,7 +570,10 @@
         "alternatives": [{ "confidence": "0.997", "content": "ね" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "。" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "。" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "18.379",
         "end_time": "18.469",
@@ -556,7 +598,10 @@
         "alternatives": [{ "confidence": "0.998", "content": "ます" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "。" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "。" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "19.52",
         "end_time": "19.62",
@@ -623,7 +668,10 @@
         "alternatives": [{ "confidence": "0.998", "content": "た" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "。" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "。" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "21.54",
         "end_time": "21.569",
@@ -672,7 +720,10 @@
         "alternatives": [{ "confidence": "0.997", "content": "から" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "、" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "、" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "22.67",
         "end_time": "22.799",
@@ -757,7 +808,10 @@
         "alternatives": [{ "confidence": "0.997", "content": "て" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "、" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "、" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "24.95",
         "end_time": "25.25",
@@ -788,14 +842,20 @@
         "alternatives": [{ "confidence": "0.998", "content": "ます" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "。" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "。" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "26.42",
         "end_time": "26.44",
         "alternatives": [{ "confidence": "0.727", "content": "で" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "、" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "、" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "26.45",
         "end_time": "26.649",
@@ -868,7 +928,10 @@
         "alternatives": [{ "confidence": "0.996", "content": "で" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "、" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "、" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "28.709",
         "end_time": "28.94",
@@ -1031,7 +1094,10 @@
         "alternatives": [{ "confidence": "0.998", "content": "で" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "、" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "、" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "34.529",
         "end_time": "34.709",
@@ -1068,7 +1134,10 @@
         "alternatives": [{ "confidence": "0.998", "content": "ます" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "。" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "。" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "35.58",
         "end_time": "35.7",
@@ -1189,7 +1258,10 @@
         "alternatives": [{ "confidence": "0.998", "content": "ます" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "。" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "。" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "39.169",
         "end_time": "39.409",
@@ -1208,7 +1280,10 @@
         "alternatives": [{ "confidence": "0.996", "content": "と" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "、" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "、" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "40.24",
         "end_time": "40.669",
@@ -1263,7 +1338,10 @@
         "alternatives": [{ "confidence": "0.999", "content": "で" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "、" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "、" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "43.33",
         "end_time": "43.58",
@@ -1306,7 +1384,10 @@
         "alternatives": [{ "confidence": "0.734", "content": "え" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "？" }], "type": "punctuation" },
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "？" }],
+        "type": "punctuation"
+      },
       {
         "start_time": "45.9",
         "end_time": "45.919",
@@ -1415,7 +1496,10 @@
         "alternatives": [{ "confidence": "0.999", "content": "ます" }],
         "type": "pronunciation"
       },
-      { "alternatives": [{ "confidence": "0.0", "content": "。" }], "type": "punctuation" }
+      {
+        "alternatives": [{ "confidence": "0.0", "content": "。" }],
+        "type": "punctuation"
+      }
     ]
   },
   "status": "COMPLETED"

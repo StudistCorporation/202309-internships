@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>動画分割アプリ</title>
+  </head>
+  <body>
+    <h1>動画分割アプリ</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+      <input type="file" name="videoFile" accept=".mp4" />
+      <button type="submit" style="display: block; margin-top: 16px; margin-bottom: 16px">
+        動画をアップロード
+      </button>
+    </form>
+
+    <video id="videoPlayer" controls autoplay></video>
+
+    <script>
+      const segmentUrl = "URL_TO_SEGMENT_FILE";
+      const videoPlayer = document.getElementById("videoPlayer");
+      videoPlayer.src = segmentUrl;
+    </script>
+  </body>
+</html>
